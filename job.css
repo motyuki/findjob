@@ -2,7 +2,7 @@
 body{
     margin: 0px;
 }
-@media (max-width: 600px){
+@media (max-width: 670px){
     body{
         width: 100%;
     }
