@@ -2,6 +2,11 @@
 body{
     margin: 0px;
 }
+@media (max-width: 600px){
+    body{
+        width: 100%;
+    }
+}
 .top{
     background-image:url(https://drive.google.com/uc?export=download&id=1zKxixV76KwWj3g9jAjIjNZUIOfK73o-v);
     background-size: cover;
