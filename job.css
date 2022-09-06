@@ -6,6 +6,18 @@ body{
     body{
         width: 100%;
     }
+    .header-margin{
+         width:100%;
+    }
+    .article-margin{
+        width:100%;
+    }
+    .item-margin{
+        width:100%;
+    }
+    .place-margin{
+        width:100%;
+    }
 }
 .top{
     background-image:url(https://drive.google.com/uc?export=download&id=1zKxixV76KwWj3g9jAjIjNZUIOfK73o-v);
